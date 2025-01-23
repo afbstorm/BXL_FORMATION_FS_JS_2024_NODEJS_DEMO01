@@ -1,0 +1,27 @@
+{
+  "name": "demo01",
+  "version": "0.0.1",
+  "description": "Demo 01",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Freyaln/BXL_FORMATION_FS_JS_2024_NODEJS.git"
+  },
+  "author": "Aurélien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Freyaln/BXL_FORMATION_FS_JS_2024_NODEJS/issues"
+  },
+  "homepage": "https://github.com/Freyaln/BXL_FORMATION_FS_JS_2024_NODEJS#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
