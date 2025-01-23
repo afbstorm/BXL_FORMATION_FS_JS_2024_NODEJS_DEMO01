@@ -14,3 +14,7 @@
 
 - npm start
 - npm run dev
+
+## Commande d'arrêt du serveur node
+
+- CTRL + C (2x)
